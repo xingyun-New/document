@@ -1,0 +1,12 @@
+# 每日学习计划邮件发送系统依赖包
+
+# Word文档处理
+python-docx>=0.8.11
+
+# 定时任务
+schedule>=1.1.0
+
+# 邮件发送（Python内置，无需安装）
+# smtplib
+# email
+

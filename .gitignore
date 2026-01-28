@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Logs
+*.log
+study_mailer*.log
+
+# Word临时文件
+~$*.docx
+~$*.doc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (optional - uncomment if you don't want to commit generated docs)
+# output_docs/*.docx
+
