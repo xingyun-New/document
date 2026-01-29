@@ -1,0 +1,12 @@
+A 4-panel educational manga page layout, flat color illustration, Japanese anime style.
+
+Panel 1 [Math Focus]: A focused student solving complex algebraic fraction equations on a blackboard, chalk dust floating, glowing mathematical symbols like "(a/b) × (c/d)" and simplification formulas in the air, expressing "Fraction Operation".
+
+Panel 2 [Biology Focus]: A scientific illustration of Mendel's pea plants, one tall plant and one short plant crossing, with a genetic diagram background showing "P", "F1", "⊗", and "3:1" ratio, DNA double helix elements, clear and detailed.
+
+Panel 3 [History Focus]: A historical scene split in two: left side showing the Taiping Rebellion with flags, right side showing a 19th-century Chinese steamship factory and machinery (Self-Strengthening Movement), vintage sepia tone blended with color.
+
+Panel 4 [English & Review]: The student holding a tablet displaying "Internet" and "Technology" vocabulary words, surrounded by holographic icons of emails, websites, and wifi signals, looking confident and happy.
+
+Style: High definition, vibrant colors, clean lines, cel shading, educational poster aesthetic, --ar 3:4 --v 6.0
+
